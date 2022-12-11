@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\bin\Debug\net6.0\hwTASK58.exe
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\bin\Debug\net6.0\hwTASK58.deps.json
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\bin\Debug\net6.0\hwTASK58.runtimeconfig.json
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\bin\Debug\net6.0\hwTASK58.dll
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\bin\Debug\net6.0\hwTASK58.pdb
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\hwTASK58.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\hwTASK58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\hwTASK58.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\hwTASK58.AssemblyInfo.cs
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\hwTASK58.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\hwTASK58.dll
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\refint\hwTASK58.dll
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\hwTASK58.pdb
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\hwTASK58.genruntimeconfig.cache
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTASK58\obj\Debug\net6.0\ref\hwTASK58.dll
