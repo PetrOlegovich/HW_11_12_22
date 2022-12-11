@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\bin\Debug\net6.0\hwTask60.exe
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\bin\Debug\net6.0\hwTask60.deps.json
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\bin\Debug\net6.0\hwTask60.runtimeconfig.json
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\bin\Debug\net6.0\hwTask60.dll
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\bin\Debug\net6.0\hwTask60.pdb
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\hwTask60.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\hwTask60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\hwTask60.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\hwTask60.AssemblyInfo.cs
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\hwTask60.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\hwTask60.dll
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\refint\hwTask60.dll
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\hwTask60.pdb
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\hwTask60.genruntimeconfig.cache
+C:\Users\user\Desktop\GitAbsolutely\HW11dek\HW11dekabr\hwTask60\obj\Debug\net6.0\ref\hwTask60.dll
